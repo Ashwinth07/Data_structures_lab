@@ -165,4 +165,22 @@ printf("Enter the valid option");
     }
    
 }
+/*
+1.Array stack
+2.linked stack
+3.Array Queue
+4.linked Queue
 
+
+Enter the option1
+---ARRAY STACK---
+push operation
+Enter the max to print how many numbers:4
+Enter the number:1
+Enter the number:2
+Enter the number:3
+Enter the number:4
+
+pop operation
+4321
+*/
